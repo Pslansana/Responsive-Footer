@@ -1,2 +1,2 @@
 # Responsive-Footer
-HTML | CSS | Responsive 
+Responsive Design using CSS
